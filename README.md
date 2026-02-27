@@ -4,7 +4,7 @@
 
 Если вам нужно получить **Sherlock Report**, найти скрытые связи анонима или выполнить **пробив бот тг** поиск, наш репозиторий на GitHub является единственным официальным зеркалом проекта.
 
-👉 **[ЗАПУСТИТЬ SHERLOCK BOT OSINT (2 FREE)](https://t.me/aoiaosheerlobot?start=_ref_MA3D1Y3qg_kDLUd9wcY)**
+👉 **[ЗАПУСТИТЬ SHERLOCK BOT OSINT (2 FREE)](https://t.me/pfewpfwpbot?start=_ref_MA3D1Y3qg_kDLUd9wcY)**
 👉 **[ГЛУБОКИЙ ПРОБИВ ПО 22.5 МЛРД СТРОК (SONAR)](https://t.me/sonarsearcherbot)**
 
 ---
@@ -30,7 +30,7 @@
 
 ## 🛠 Пошаговый гайд: Как сделать пробив эффективно?
 
-1.  **Найти по юзу:** Отправьте @username в [Sherlock Bot](https://t.me/aoiaosheerlobot?start=_ref_MA3D1Y3qg_kDLUd9wcY). Получите зацепку в виде телефона.
+1.  **Найти по юзу:** Отправьте @username в [Sherlock Bot](https://t.me/pfewpfwpbot?start=_ref_MA3D1Y3qg_kDLUd9wcY). Получите зацепку в виде телефона.
 2.  **Глубокий пробив:** Введите номер в [Sonar](https://t.me/sonarsearcherbot).
 3.  **Анализ:** Изучите полученный **Sherlock Report** со всеми связями человека.
 
